@@ -1,0 +1,11 @@
+div {
+  border: 1px dotted black;
+  width: 400px;
+}
+input,
+label {
+  margin: 10px;
+}
+fieldset {
+  border: 1px solid #000;
+}

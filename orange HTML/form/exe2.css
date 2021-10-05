@@ -1,0 +1,22 @@
+.all,
+label,
+input {
+  margin: 10px 0 10px 10px;
+}
+.gender,
+p {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+h3 {
+  margin-left: 10px;
+}
+hr {
+  width: 350px;
+  text-align: center;
+}
+fieldset {
+  border: 1px solid #000;
+  width: 400px;
+}
